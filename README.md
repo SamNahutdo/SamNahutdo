@@ -77,5 +77,6 @@ Machine Learning
 
 
 
-I'm Sorry, I haven't pushed any of my project to GitHub yet.
-Very soon, I will be sharing my projects by uploading them, and I am eager to hear your valuable feedback.
+This Github Account is educational purposes only.
+what every i post in this account it is my school project
+
