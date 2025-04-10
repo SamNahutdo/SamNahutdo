@@ -36,9 +36,4 @@ TechStack
 This Github Account is for educational purposes only.
 
 
-
-
-
-
-what every i push in this Github Account it's from my school projects.
-
+Inag bakasyon nako mag deploy sa mga gi gama nako HAHAHAHAHAHA
