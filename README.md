@@ -16,12 +16,9 @@ https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescri
 
 
 
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
 
 
-
-
-
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
