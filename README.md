@@ -28,7 +28,7 @@ TechStack
 
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&langs_count=20&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&langs_count=15&theme=tokyonight)]()
 
 
 
