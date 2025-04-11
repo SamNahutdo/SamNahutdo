@@ -40,7 +40,7 @@ TechStack
 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamNahutdo&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamNahutd&count_private=true&theme=tokyonight&showicons=true)]()
 
 
 
