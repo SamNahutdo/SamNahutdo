@@ -23,7 +23,7 @@ TechStack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![HackerAcademy](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+![HackingAcademy](https://img.shields.io/badge/HackingAcademy-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 
 
 
