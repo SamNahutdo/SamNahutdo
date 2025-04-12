@@ -49,8 +49,16 @@ TechStack
 
 
 
+***CodeWars Achievements***
+
+
+https://www.codewars.com/users/SamNahutdo/badges/large
+
+
+
+
 
 This Github Account is for educational purposes only.
 
 
-***Inag bakasyon nako mag deploy sa mga gi gama nako HAHAHAHAHAHA***
+***Inag bakasyon nako mag deploy sa ubang gi gama nako HAHAHAHAHAHA***
