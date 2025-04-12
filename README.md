@@ -1,4 +1,4 @@
-***TechStack***
+***TechStack*** - Doesn't mean FullStack but having a knownledge of it.
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
