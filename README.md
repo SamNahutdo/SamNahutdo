@@ -53,7 +53,7 @@ TechStack
 
 
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SamNahutdo)]
+![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SamNahutdo)
 
 
 
