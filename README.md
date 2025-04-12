@@ -52,7 +52,8 @@ TechStack
 ***CodeWars Achievements***
 
 
-https://www.codewars.com/users/SamNahutdo/badges/large
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=SamNahutdo)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 
 
