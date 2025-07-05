@@ -33,7 +33,7 @@
 
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&langs_count=30&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&langs_count=40&theme=tokyonight)]()
 
 
 
