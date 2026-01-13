@@ -27,31 +27,12 @@
 
 
 
+<div align="center"> <img src="https://github.com/user-attachments/assets/7c3a5c72-2d30-4671-b709-b4c787784edf" width="800" alt="Game Screenshot">
+https://img.shields.io/badge/Play-Online-brightgreen
+https://img.shields.io/badge/License-MIT-yellow.svg
+https://img.shields.io/badge/Made%2520with-JavaScript-f7df1e.svg
 
-***Must used languages***
-
-
-
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&langs_count=40&theme=tokyonight)]()
-
-
-
-
-
-
-
-***Stats***
-
-
-
-
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SamNahutdo&count_private=true&theme=tokyonight&showicons=true)]()
-
-
+</div>
 
 
 
