@@ -1,2 +1,1 @@
-
-![Chess Demo](./assets/chess-demo.gif)
+![Chess Preview](./assets/chess-preview.gif)
