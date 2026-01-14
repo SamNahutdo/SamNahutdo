@@ -1,20 +1,5 @@
-<h1 align="left">I'm Sam Nahutdo</h1>
 
-###
-
-<p align="left">idk</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="center">My stack is</h2>
+<h2 align="center">Tech stack</h2>
 
 ###
 
@@ -83,4 +68,6 @@
 ###
 
 i also love playing chess with elo of 1100
+
+<img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="40" />
 ![Alt text](https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png)
