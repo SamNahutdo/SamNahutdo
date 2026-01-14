@@ -13,7 +13,7 @@
 
 
 
-Tech stack SHS
+Tech stack in SHS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -30,16 +30,11 @@ Tech stack SHS
 </div>
 
 
-
-
-
-
 ###
 
-Start learning on... when i entered college
+
+Tech stack in College
 <div align="left">
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
