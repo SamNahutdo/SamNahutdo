@@ -1,3 +1,3 @@
 Hello guys
 
-![Alt text](https://samnahutdo.github.io/SamInfo/assets/imagesOfMe/main.jpg)
+![Alt text](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpZTvydV.png)
