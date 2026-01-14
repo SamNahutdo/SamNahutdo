@@ -1,3 +1,3 @@
 Hello guys
 
-![Alt text]((https://github.com/SamNahutdo/SamInfo/blob/main/assets/imagesOfMe/hacker.jpg))
+![Alt text](https://samnahutdo.github.io/SamInfo/assets/imagesOfMe/main.jpg)
