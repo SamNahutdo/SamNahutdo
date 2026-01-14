@@ -69,4 +69,4 @@
 
 i also love playing chess with elo of 1100
 
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="100" />
+<img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="250" />
