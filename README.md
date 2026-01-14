@@ -82,3 +82,5 @@ I also love playing chess with 1000 plus elo people
 
 
 ***
+
+***Some of my projects is temporary private***
