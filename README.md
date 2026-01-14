@@ -1,1 +1,1 @@
-![Chess Preview](./assets/chess-preview.gif)
+![Chess Preview](./assets/chess.mkv)
