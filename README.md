@@ -23,6 +23,7 @@ in shs days I have learn
 
 ###
 
+Start learning on... when i entered college
 <div align="left">
 
 
