@@ -1,4 +1,4 @@
 Hello guys
 
 
-![Chess Preview]([assets/imagesOfMe/hacker.jpg])
+![me]([assets/imagesOfMe/hacker.jpg])
