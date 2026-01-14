@@ -12,6 +12,13 @@
 
 
 
+![github](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMxbXM1eGJkdnQ4bzVmYXFsaHl4d2x2MzBkZGJqdHZieTBnbGxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif)
+
+
+
+
+
+
 
 Wissen in SHS
 <div align="left">
@@ -63,7 +70,7 @@ I also love playing chess with 1000 plus elo people
 
 
 
-![coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RxZHc2aHM5cG0zbTR2bXJicGFjcXZmeGhhZndhOGhxNmgyMjJ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WwbmjTK5TS87e/giphy.gif)
+![chess](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RxZHc2aHM5cG0zbTR2bXJicGFjcXZmeGhhZndhOGhxNmgyMjJ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WwbmjTK5TS87e/giphy.gif)
 
 
 
