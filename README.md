@@ -60,7 +60,7 @@ I also love playing chess with 1000 plus elo people
 
 
 
-![coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9weWczMjIyamM0YnA0YXF2MDgzaWltaGZhOHlnajZjcGhraHhteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OGuhcYWfmXgHK/giphy.gif)
+![coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RxZHc2aHM5cG0zbTR2bXJicGFjcXZmeGhhZndhOGhxNmgyMjJ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WwbmjTK5TS87e/giphy.gif)
 
 
 
