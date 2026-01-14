@@ -87,5 +87,5 @@ i also love playing chess with elo of 1100
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnahutdo)](https://github.com/samnahutdo/github-readme-stats)
+[![sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnahutdo)](https://github.com/samnahutdo/github-readme-stats)
 
