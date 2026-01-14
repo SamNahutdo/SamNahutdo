@@ -1,4 +1,3 @@
 Hello guys
 
-
-![me]([assets/imagesOfMe/hacker.jpg])
+![Alt text](assets/imagesOfMe/hacker.jpg)
