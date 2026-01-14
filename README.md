@@ -86,5 +86,10 @@ i also love playing chess with elo of 1100
 <img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="250" />
 
 
-![sam's](https://github-readme-stats.vercel.app/api?username=samnahutdo&hide=contribs,prs)
+
+
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
