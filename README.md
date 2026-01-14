@@ -88,5 +88,11 @@ i also love playing chess with elo of 1100
 
 
 
+###
 
 <img src="https://raw.githubusercontent.com/samnahutdo/samnahutdo/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
