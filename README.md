@@ -1,4 +1,4 @@
 Hello guys
 
 
-![Chess Preview](./assets/chess.gif)
+![Chess Preview](./assets/chess.png)
