@@ -86,6 +86,5 @@ i also love playing chess with elo of 1100
 <img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="250" />
 
 
-
-[![sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samnahutdo)](https://github.com/samnahutdo/github-readme-stats)
+![sam's](https://github-readme-stats.vercel.app/api?username=samnahutdo&hide=contribs,prs)
 
