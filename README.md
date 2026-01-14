@@ -25,7 +25,7 @@ Tech stack in SHS
 </div>
 
 
-###
+***
 
 
 Tech stack in College
@@ -51,7 +51,11 @@ Tech stack in College
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
+
+
+***
+
+
 
 I also love playing chess with 1000 plus elo people
 
@@ -67,4 +71,4 @@ I also love playing chess with 1000 plus elo people
 
 
 
-###
+***
