@@ -12,13 +12,6 @@
 
 
 
-![github](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMxbXM1eGJkdnQ4bzVmYXFsaHl4d2x2MzBkZGJqdHZieTBnbGxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif)
-
-
-
-
-
-
 
 Wissen in SHS
 <div align="left">
@@ -56,6 +49,17 @@ Wissen im College
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
+
+
+
+
+
+
+
+![github](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMxbXM1eGJkdnQ4bzVmYXFsaHl4d2x2MzBkZGJqdHZieTBnbGxrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif)
+
+
+
 
 
 
