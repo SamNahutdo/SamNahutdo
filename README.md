@@ -53,9 +53,9 @@ Tech stack in College
 
 ###
 
-i also love playing chess with elo of 1100
+I also love playing chess with 1000 plus elo people
 
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardboard.1d6f9426.png" height="250" />
+![coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJ5NnpocTNibmZsZnJxbGY4MGlxcXNqa3J6MmZmcTIzOXJnajZ2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4A96Vl8OW7xS1COfU/giphy.gif)
 
 
 
