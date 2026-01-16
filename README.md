@@ -67,7 +67,7 @@ Wissen im College
 
 
 
-I also love playing chess with 1000 plus elo people
+I also love playing chess with a thousand elo people
 
 
 
