@@ -87,5 +87,3 @@ I also love playing chess with a thousand elo people
 
 
 
-gwhwhw
-ggdhh
