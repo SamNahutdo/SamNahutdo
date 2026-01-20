@@ -86,12 +86,3 @@ I also love playing chess with a thousand elo people
 ***Some of my projects is temporary private***
 
 
-h cwec dvj
-2u buec buc
-3cw ubwu 
-4 yuasyusgd8cav 
-5 ccassxc
-6 cbqwcbdsq 
-7dxq 7qcb
-8 uhcu qu
-89 ue cc9vb d
