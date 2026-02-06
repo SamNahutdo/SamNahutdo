@@ -39,7 +39,7 @@
 
 
 
-I also love playing chess with a thousand elo pips
+Duwa ta chess online or F2f
 
 
 
