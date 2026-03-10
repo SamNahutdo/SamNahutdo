@@ -55,8 +55,7 @@ Duwa ta chess online or F2f
 
 
 
-
-<img src="https://raw.githubusercontent.com/samnahutdo/samnahutdo/output/snake.svg" alt="Snake animation" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
