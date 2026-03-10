@@ -50,5 +50,19 @@ Duwa ta chess online or F2f
 
 ***
 
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/samnahutdo/samnahutdo/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+
 ***Some of my projects is temporary private***
 
