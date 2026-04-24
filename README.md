@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=header&text=Welcome%20to%20My%20System&fontColor=00E5FF&fontSize=30&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 
@@ -24,24 +26,3 @@
 
 
 
-huy
-
-
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-
-<p align="center">
-  💻 Cybersecurity Enthusiast <br>
-  ⚡ Building Systems in C & Linux
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,kali,git,github" />
-</p>
-
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
