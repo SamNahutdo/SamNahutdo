@@ -2,10 +2,9 @@
 
 
 <div align="center">
-
-
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI4YW45enI5YWoyOGRzcXhneHZnczhiMzV5bncwM2JxNTh6andncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="80%"/>
+</div>
+
 
 
 <div align="left">
@@ -26,11 +25,9 @@
 
 <img src="https://media1.tenor.com/m/S2y1cm2M8vsAAAAd/samnahutdo1.gif" width="80%"/>
 
-</div>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
 
+</div>
 
 
 
