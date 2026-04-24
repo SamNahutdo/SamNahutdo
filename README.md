@@ -17,9 +17,7 @@
 
 <br><br>
 
-
 <img src="https://media1.tenor.com/m/S2y1cm2M8vsAAAAd/samnahutdo1.gif" width="600"/>
-
 
 </div>
 
