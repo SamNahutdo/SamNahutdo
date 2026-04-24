@@ -12,7 +12,7 @@
 
 
 
-<img src="[assets/kali-banner.gif](https://media1.tenor.com/m/S2y1cm2M8vsAAAAd/samnahutdo1.gif)" width="80%"/>
+<img src="https://media1.tenor.com/m/S2y1cm2M8vsAAAAd/samnahutdo1.gif" width="80%"/>
 
 </div>
 
