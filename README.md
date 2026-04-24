@@ -18,3 +18,33 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
+
+
+
+<!-- HEADER (Kali style) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=220&section=header&text=KALI%20DEV%20MODE&fontColor=00FFFF&fontSize=35&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+<!-- TERMINAL INTRO -->
+<pre>
+┌──(root㉿sam)-[~/system]
+└─$ initializing...
+└─$ loading modules...
+└─$ access granted ✔
+</pre>
+
+<h3>Ich bin Sam, der Programmierer</h3>
+
+</div>
+
+---
+
+## ⚡ SYSTEM STATUS
+
+```bash
+User: sam
+Role: Cybersecurity Enthusiast
+OS: Kali Linux
+Focus: C | Linux | Security | Systems
+Status: Online 🟢
