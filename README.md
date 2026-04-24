@@ -23,36 +23,3 @@
 
 
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=220&section=header&text=KALI%20INTERFACE&fontColor=00FFFF&fontSize=35&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-<!-- FAKE TERMINAL BOOT -->
-<pre>
-┌──(root㉿sam)-[~/system]
-└─$ booting kali linux...
-└─$ loading kernel modules...
-└─$ starting services...
-└─$ access granted ✔
-</pre>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+system...;Ich+bin+Sam,+der+Programmierer;Cybersecurity+Enthusiast;C+%7C+Linux+%7C+Kali+Linux" />
-
-</div>
-
----
-
-## ⚡ TERMINAL
-
-```bash
-┌──(root㉿sam)-[~/projects]
-└─$ ls
-mcdp-payroll-system
-flight-reservation-system
-cybersecurity-toolkit
-
-┌──(root㉿sam)-[~/projects]
-└─$ whoami
-sam - developer
