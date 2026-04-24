@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=250&section=header&text=KALI%20DEV%20MODE&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=250&section=header&text=SAM%20DEV%20MODE&fontColor=00FFFF&fontSize=40&animation=twinkling" width="100%"/>
 
 
 
@@ -29,4 +29,6 @@
 
 
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer"/>
 
