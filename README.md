@@ -23,30 +23,36 @@
 
 
 
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=220&section=header&text=KALI%20INTERFACE&fontColor=00FFFF&fontSize=35&animation=twinkling" width="100%"/>
 
-<!-- HEADER (Kali style) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=220&section=header&text=KALI%20DEV%20MODE&fontColor=00FFFF&fontSize=35&animation=twinkling" width="100%"/>
+<div align="center">
 
-
-<!-- TERMINAL INTRO -->
+<!-- FAKE TERMINAL BOOT -->
 <pre>
 ┌──(root㉿sam)-[~/system]
-└─$ initializing...
-└─$ loading modules...
+└─$ booting kali linux...
+└─$ loading kernel modules...
+└─$ starting services...
 └─$ access granted ✔
 </pre>
 
-<h3>Ich bin Sam, der Programmierer</h3>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+system...;Ich+bin+Sam,+der+Programmierer;Cybersecurity+Enthusiast;C+%7C+Linux+%7C+Kali+Linux" />
 
 </div>
 
 ---
 
-## ⚡ SYSTEM STATUS
+## ⚡ TERMINAL
 
 ```bash
-User: sam
-Role: Cybersecurity Enthusiast
-OS: Kali Linux
-Focus: C | Linux | Security | Systems
-Status: Online 🟢
+┌──(root㉿sam)-[~/projects]
+└─$ ls
+mcdp-payroll-system
+flight-reservation-system
+cybersecurity-toolkit
+
+┌──(root㉿sam)-[~/projects]
+└─$ whoami
+sam - developer
