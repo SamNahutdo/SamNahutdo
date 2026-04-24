@@ -21,10 +21,12 @@
 
 
 
+
+
+
 <!-- HEADER (Kali style) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=220&section=header&text=KALI%20DEV%20MODE&fontColor=00FFFF&fontSize=35&animation=twinkling" width="100%"/>
 
-<div align="center">
 
 <!-- TERMINAL INTRO -->
 <pre>
