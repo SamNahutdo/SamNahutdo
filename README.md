@@ -9,6 +9,8 @@
 
 <div align="left">
 
+<br><br>
+
 <pre>
 ┌──(cat㉿sam)-[~/github]
 └─$ booting Sam brain...
