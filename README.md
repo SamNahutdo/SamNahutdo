@@ -24,12 +24,18 @@
 
 
 
----
+<!-- TERMINAL STYLE LANGUAGE SECTION -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamNahutdo&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050A14,100:00BFFF&height=120&section=header&text=KALI%20LINUX%20•%20LANGUAGE%20ANALYTICS&fontColor=ffffff&fontSize=28&animation=fadeIn"/>
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+```bash
+┌──(root㉿sam)-[~/github/language-stats]
+└─$ sudo analyze --all-repositories --private-projects
