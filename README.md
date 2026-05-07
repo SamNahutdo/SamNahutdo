@@ -24,13 +24,6 @@
 
 
 
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&layout=pie&theme=tokyonight&hide_border=true&langs_count=20"/>
-
-</div>
-
 <br>
 
 <div align="center">
