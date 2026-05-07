@@ -24,3 +24,14 @@
 
 
 
+---
+
+<h2 align="center">📊 Most Used Languages 📊</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNahutdo&layout=compact&theme=tokyonight&langs_count=10&hide_border=true"/>
+
+</div>
+
+---
