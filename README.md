@@ -24,24 +24,6 @@
 
 
 
-<!-- KALI LINUX LANGUAGE ANALYTICS -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=180&section=header&text=KALI%20LANGUAGE%20ANALYTICS&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-<pre>
-┌──(root㉿sam)-[~/github]
-└─$ sudo ./analyze_languages.sh
-</pre>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -54,45 +36,5 @@
 <div align="center">
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamNahutdo&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamNahutdo&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">💻 C</td>
-<td align="center">⚡ C++</td>
-<td align="center">🐍 Python</td>
-<td align="center">🌐 JavaScript</td>
-<td align="center">🔷 TypeScript</td>
-</tr>
-
-<tr>
-<td align="center">🐘 PHP</td>
-<td align="center">🎨 HTML</td>
-<td align="center">🖌 CSS</td>
-<td align="center">🐚 Bash</td>
-<td align="center">🗄 SQL</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=120&section=footer"/>
 
 </div>
