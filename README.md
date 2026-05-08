@@ -26,8 +26,4 @@
 
 <br>
 
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamNahutdo&theme=tokyonight"/>
-
-</div>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
