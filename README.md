@@ -15,6 +15,7 @@
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo apt run sam_career
 # Cybersecurity and Software Development
+  
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo apt run tech stack
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
