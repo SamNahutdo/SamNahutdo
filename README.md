@@ -18,7 +18,8 @@
   
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo apt run techStack
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&layout=pie&langs_count=50" />
+
 </pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
