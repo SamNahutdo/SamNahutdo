@@ -34,11 +34,8 @@
 └─$ bash repo.sh
 
 
-<div align="center">
-
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
 </pre>
 
 
