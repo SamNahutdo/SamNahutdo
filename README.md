@@ -22,7 +22,7 @@
 <pre>
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.sh
-# Cybersecurity and Software Development
+# Cybersecurity and Software Developer
   
 ┌──(cat㉿sam)-[~/github]
 └─$ ./techStack.sh
