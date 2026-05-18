@@ -22,6 +22,12 @@
 
 </pre>
 
+
+<div align="center">
+
+![snake gif](https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
 
 </div>
