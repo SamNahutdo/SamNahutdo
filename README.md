@@ -12,11 +12,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI4YW45enI5YWoyOGRzcXhneHZnczhiMzV5bncwM2JxNTh6andncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="80%"/>
 </div>
 
-<div align="center">
 
-![snake gif](https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
 <div align="left">
@@ -25,13 +21,22 @@
 
 <pre>
 ┌──(cat㉿sam)-[~/github]
-└─$ sudo apt run sam_career
+└─$ sudo career.sh
 # Cybersecurity and Software Development
   
 ┌──(cat㉿sam)-[~/github]
-└─$ sudo apt run techStack
+└─$ ./techStack.sh
+
 <img height="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&layout=pie&langs_count=50" />
 
+
+┌──(cat㉿sam)-[~/github]
+└─$ bash repo.sh
+<div align="center">
+
+![snake gif](https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 </pre>
 
 
