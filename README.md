@@ -26,14 +26,11 @@
   
 ┌──(cat㉿sam)-[~/github]
 └─$ ./techStack.sh
-
 <img height="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&layout=pie&langs_count=50" />
 
 
 ┌──(cat㉿sam)-[~/github]
 └─$ bash repo.sh
-
-
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </pre>
