@@ -24,9 +24,6 @@
 └─$ sudo career.sh
 # Cybersecurity and Software Developer
   
-┌──(cat㉿sam)-[~/github]
-└─$ ./techStack.sh
-<img height="350em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SamNahutdo&theme=neon&layout=pie&langs_count=50" />
 
 
 ┌──(cat㉿sam)-[~/github]
