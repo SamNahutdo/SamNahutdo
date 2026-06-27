@@ -7,7 +7,7 @@
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.sh
 # Cybersecurity and Software Developer
-hell owrld
+
 ┌──(cat㉿sam)-[~/github]
 └─$ bash repo.sh
       </div>
