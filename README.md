@@ -7,7 +7,7 @@
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.sh
 # Cybersecurity and Software Developer
-#jdhdbhcbdhcbdhbshd
+#jdhdbhcbdhcbdhbshd ok
 ┌──(cat㉿sam)-[~/github]
   ok
 └─$ bash repo.sh
