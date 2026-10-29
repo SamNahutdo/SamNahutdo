@@ -7,7 +7,7 @@
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.shsvksjvjshuvshf dayum bro
 # Cybersecurity and Software Developerdfer
-#jdhdbhcbdhcbdhbshd okscsc
+#jdhdbhcbdhcbdhbshd okscscvvrre
 ┌──(cat㉿sam)-[~/github]dvwef
   ok
 └─$ bash repo.sh
