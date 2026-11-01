@@ -6,7 +6,7 @@
  <!--  <div align="left">
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnf
-# Cybersecurity and Software Developerdferverve okkknew hahahah
+# Cybersecurity and Software Developerdferverve okkknew hahahahupf
 ┌──(cat㉿sam)-[~/github]dvwef
   ok
 └─$ bash repo.sh
