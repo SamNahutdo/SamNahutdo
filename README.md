@@ -10,7 +10,7 @@
 ┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrg
   ok fddgd
 └─$ bash repo.shgrthrh
-      </div> sdvsdfgs
+      </div> sdvsdfgs sdsdf
   -->
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
