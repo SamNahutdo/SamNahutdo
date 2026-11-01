@@ -9,7 +9,7 @@
 # Cybersecurity and Software Developerdferverve okkknew hahahahupf
 ┌──(cat㉿sam)-[~/github]dvwef
   ok
-└─$ bash repo.sh
+└─$ bash repo.shgrthrh
       </div>
   -->
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
