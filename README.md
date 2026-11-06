@@ -7,7 +7,7 @@
 ┌──(cat㉿sam)-[~/github]
 └─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdf
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf
-┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrgvv4v
+┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrgvv4vdfs
   ok fddgd
 └─$ bash repo.shgrthrh fork mi boi
       </div> sdvsdfgs sdsdf
