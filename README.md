@@ -12,6 +12,11 @@
 └─$ bash repo.shgrthrh fork mi boi
       </div> sdvsdfgs sdsdf
   -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight)](https://github.com/samnahutdo/github-readme-stats)
+
+
+             
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,100:007ACC&height=200&section=footer" width="100%"/>
 </pre>
