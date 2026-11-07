@@ -13,7 +13,17 @@
       </div> sdvsdfgs sdsdf
   -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight)](https://github.com/samnahutdo/github-readme-stats)
+  <div align="center">
+
+  <h3>Languages & Technologies</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&card_width=500" width="100%"/>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=donut&theme=tokyonight&langs_count=20&hide_border=true" width="100%"/>
+
+</div>
 
 
              
