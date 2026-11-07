@@ -13,15 +13,12 @@
       </div> sdvsdfgs sdsdf
   -->
 
-  <div align="center">
+ <!-- Languages Used -->
+<div align="center">
 
-  <h3>Languages & Technologies</h3>
+### ⚡ Languages Used
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&card_width=500" width="100%"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=donut&theme=tokyonight&langs_count=20&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight&langs_count=30&hide_border=true&hide_title=true" width="100%"/>
 
 </div>
 
