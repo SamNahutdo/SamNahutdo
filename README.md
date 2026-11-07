@@ -13,14 +13,7 @@
       </div> sdvsdfgs sdsdf
   -->
 
- <!-- Languages Used -->
-<div align="center">
 
-### ⚡ Languages Used
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnahutdo&layout=compact&theme=tokyonight&langs_count=30&hide_border=true&hide_title=true" width="100%"/>
-
-</div>
 
 
              
