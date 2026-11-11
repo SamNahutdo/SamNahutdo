@@ -5,7 +5,7 @@
 </div>
  <!--  <div align="left">
 ┌──(cat㉿sam)-[~/github] sgdg
-└─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdf
+└─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdfsdcscs
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf
 ┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrgvv4vdfs
   ok fddgdascasdaasdad dasdadsdcsc
