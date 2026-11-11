@@ -8,7 +8,7 @@
 └─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdf
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf
 ┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrgvv4vdfs
-  ok fddgdascasdaasdad dasdad
+  ok fddgdascasdaasdad dasdadsdcsc
 └─$ bash repo.shgrthrh fork mi boi ok 
       </div> sdvsdfgs sdsdf
   -->
