@@ -6,7 +6,7 @@
  <!--  <div align="left">
 ┌──(cat㉿sam)-[~/github] sgdg
 └─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdfsdcscs
-# Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf
+# Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf hahaha
 ┌──(cat㉿sam)-[~/github]dvwef nah i dont know manegergrgvv4vdfs
   ok fddgdascasdaasdad dasdadsdcsc
 └─$ bash repo.shgrthrh fork mi boi ok 
