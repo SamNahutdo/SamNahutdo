@@ -9,7 +9,7 @@
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf hahaha ha unsa??
 ┌──(cat㉿sam)-[~/github]dvwef nhwhwhwhah i dont know manegergrgvv4vdfs
   ok fddgdascasdaasdad dasdadsdcsc aasda
-└─$ bash repo.shgrthrh fork mi boi ok cwwew sfsfs gwgwvs
+└─$ bash repo.shgrthrh fork mi boi ok cwwew sfsfs gwgwvssfsf
       </div> sdvsdfgs sdsdf dffwfwe
   -->
 
