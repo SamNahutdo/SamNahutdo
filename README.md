@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI4YW45enI5YWoyOGRzcXhneHZnczhiMzV5bncwM2JxNTh6andncCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="80%"/>
 </div>
  <!--  <div align="left">
-┌──(cat㉿sam)-[~/github] sgdg
+┌──(cat㉿sam)-[~/github] sgdg dsfsfs
 └─$ sudo career.shsvksjvjshuvshf dayum brovnfnfnfsdsdfsdcscs
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf hahaha ha unsa??
 ┌──(cat㉿sam)-[~/github]dvwef nhwhwhwhah i dont know manegergrgvv4vdfs
