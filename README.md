@@ -9,12 +9,9 @@
 # Cybersecurity and Software Developerdferverve okkknewsdvsdvs hahahahupf hahaha ha unsa??
 ┌──(cat㉿sam)-[~/github]dvwef nhwhwhwhah i dont know manegergrgvv4vdfs
   ok fddgdascasdaasdad dasdadsdcsc aasda dayum bro  what??? damn bro
-└─$ bash repo.shgrthrh fork mi boi ok cwwew sfsfs gwgwvssfsf fdefd 
+└─$ bash repo.shgrthrh fork mi boi ok cwwew sfsfs gwgwvssfsf fdefd  djsdjfhsh
       </div> sdvsdfgs sdsdf dffwfwe
   -->
-
-
-
 
              
 <img src="https://github.com/SamNahutdo/SamNahutdo/blob/output/github-contribution-grid-snake-dark.svg" />
