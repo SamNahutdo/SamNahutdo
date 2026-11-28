@@ -1,3 +1,6 @@
+
+
+```
 <pre>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,100:00BFFF&height=250&section=header&animation=twinkling" width="100%"/>
 <div align="center">
@@ -26,6 +29,6 @@
 </div>
 
 
-
+```
 
 
